@@ -1,0 +1,6 @@
+{
+  "name": "QuantVault",
+  "description": "An elite institutional-grade multi-asset trading terminal and portfolio compliance analytics system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
